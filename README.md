@@ -23,7 +23,7 @@ REST API/
 To clone this repository, use the following command:
 
  ```bash
- git clone https://github.com/tu_usuario/rest-api-calculator.git
+ git clone https://github.com/Daniielpro/REST-API.git
 
  ```
 
